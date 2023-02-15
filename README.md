@@ -9,6 +9,12 @@ Atualmente sou estudante Full Stack mergulhado em JavaScript.
   - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-js"/>
   
   <br>
+  
+  [![Sidnei stats](https://github-readme-stats.vercel.app/api?username=SidneiGoulartJunior)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidneiGoulartJunior)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
+  <br>
   Siga-me também:
   <br>
   <br>
