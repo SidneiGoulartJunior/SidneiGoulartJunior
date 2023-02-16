@@ -1,12 +1,14 @@
-Olá visitante! :neckbeard:
+<h1>Olá visitante! :neckbeard:</h1>
 
-Sou o Sidnei, um engenheiro civil em transição de carreira e curioso por tecnologia. <br>
-Atualmente sou estudante Full Stack mergulhado em JavaScript.
+<p>
+  - Sou o Sidnei, um engenheiro civil em transição de carreira e curioso por tecnologia. <br>
+Atualmente sou estudante de programação no DevClub Full Stack - PRO, mergulhado em JavaScript. <br>
+Também estou cursando ADS na ULBRA.</p>
+
 <br>
-<br>
-  - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html"/>
-  - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css"/>
-  - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-js"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-js"/>
   
   <br>
   
