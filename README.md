@@ -35,7 +35,7 @@ Também estou cursando ADS na ULBRA para ampliar meus conhecimentos.</p>
   <a/>
   <br>
   <br>
-  <a href="[https://www.linkedin.com/in/sidnei-goulart-junior-4300817](https://www.linkedin.com/in/dev-sid-goulart-jr/)a/ target="_blank">
+  <a href="https://www.linkedin.com/in/dev-sid-goulart-jr/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-lkn" width="100px" align="left"/>
   <a/>
   <p/>
